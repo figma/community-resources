@@ -18,21 +18,34 @@ endorsed or sponsored by Figma in any way. **Please do your own due diligence an
 security review before using any resources listed.**
 
 ---
-Add [skill] figma-apca-compliance
+
+## Table of Contents
+
+- [Accessibility](#accessibility)
+- [Components](#components)
+
+---
+
+### Accessibility
 
 #### figma-apca-compliance
+
 [SOURCE CODE](https://github.com/Merkle-XDI/figma-apca-compliance) · [MIT](https://github.com/Merkle-XDI/figma-apca-compliance/blob/main/LICENSE.txt)
 **MCP Tools:** `get_design_context` `get_variable_defs` `get_screenshot` `use_figma`.
 A skill for integrating APCA contrast compliance directly into the Figma design process. Audits and remaps color variables to meet target Lc thresholds, and generates APCA-compliant component variations across light and dark modes.
 
 ---
-Add [skill] figma-reconstruct-component
+
+**[⬆ Back to TOC](#table-of-contents)**
+
+### Components
 
 #### figma-reconstruct-component
+
 [SOURCE CODE](https://github.com/JP4000000/figma-reconstruct-component) · [MIT](https://github.com/JP4000000/figma-reconstruct-component/blob/main/LICENSE.txt)
 **MCP Tools:** `get_design_context` `get_screenshot` `use_figma`
 A skill that takes a selected Figma frame and rebuilds it as a proper Atomic Design component system directly on the Figma canvas, without Code Connect or a published library.
 
+---
 
-
-
+**[⬆ Back to TOC](#table-of-contents)**
