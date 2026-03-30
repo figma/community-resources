@@ -19,7 +19,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
   - ❌ `- This resource will change your life.`
 - [ ] The name of your resource shouldn't start with Figma.
   - See our [brand usage guidelines](https://www.figma.com/using-the-figma-brand/#indicating-compatibility).
-  - Example of good names: Easy Figma Token Reference, color-sync-figma.
+  - Example of good names: Easy Token Reference, color-sync-figma.
   - Example of bad names: Figma Style Tool, figma-code-convert.
 - [ ] Your entry should be added to the appropriate section file sorted in alphabetical order.
 - [ ] Your entry should be in the following format.
