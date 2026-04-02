@@ -1,4 +1,5 @@
 # Open Source Resources for the Figma Community
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 _A collection of open source plugins, widgets, agent skills, and developer resources
 for Figma products that have been shared on GitHub._
