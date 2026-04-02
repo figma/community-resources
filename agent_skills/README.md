@@ -41,6 +41,15 @@ A skill for integrating APCA contrast compliance directly into the Figma design 
 
 ### Components
 
+#### design-react-api
+
+[SOURCE CODE](https://github.com/bitovi/design-react-api) · [MIT](https://github.com/bitovi/design-react-api/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_variable_defs`                                                                          
+A spec-driven skill that analyzes a Figma component and proposes a React component API, props interface, TypeScript types, and  
+variant-to-prop mappings before any implementation begins.                                                                                       
+                                                                                                                               
+---
+
 #### reconstruct-component-figma
 
 [SOURCE CODE](https://github.com/JP4000000/reconstruct-component-figma) · [MIT](https://github.com/JP4000000/reconstruct-component-figma/blob/main/LICENSE.txt)
