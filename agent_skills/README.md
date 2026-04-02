@@ -23,6 +23,7 @@ security review before using any resources listed.**
 
 - [Accessibility](#accessibility)
 - [Components](#components)
+- [Design Process](#design-process)
 - [Design Systems](#design-systems)
 
 ---
@@ -46,6 +47,34 @@ A skill for integrating APCA contrast compliance directly into the Figma design 
 [SOURCE CODE](https://github.com/JP4000000/reconstruct-component-figma) · [MIT](https://github.com/JP4000000/reconstruct-component-figma/blob/main/LICENSE.txt)
 **MCP Tools:** `get_design_context` `get_screenshot` `use_figma`
 A skill that takes a selected Figma frame and rebuilds it as a proper Atomic Design component system directly on the Figma canvas, without Code Connect or a published library.
+
+---
+
+**[⬆ Back to TOC](#table-of-contents)**
+
+### Design Process
+
+#### delight-audit
+
+[SOURCE CODE](https://github.com/mariespreitzer/delight-audit-figma) · [MIT](https://github.com/mariespreitzer/delight-audit-figma/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_metadata` `get_screenshot`
+Audits Figma designs for emotional quality across three dimensions: unexpected joy, earned satisfaction, and emotional resonance.
+
+---
+
+#### design-narrative
+
+[SOURCE CODE](https://github.com/mariespreitzer/design-narrative-figma) · [MIT](https://github.com/mariespreitzer/design-narrative-figma/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_metadata` `get_screenshot`
+Writes a four-part design rationale from a Figma file covering context, insight, design response, and delight intention.
+
+---
+
+#### workshop-board
+
+[SOURCE CODE](https://github.com/mariespreitzer/workshop-board-figma) · [MIT](https://github.com/mariespreitzer/workshop-board-figma/blob/main/LICENSE)
+**MCP Tools:** `use_figma`
+Generates a complete, ready-to-run FigJam workshop board from a challenge brief, audience, duration, and participant count.
 
 ---
 
