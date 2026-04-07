@@ -7,6 +7,12 @@ Copilot for Figma products._
 
 </div>
 
+## Official Resources
+
+⭐ **[Figma MCP Server Guide](https://github.com/figma/mcp-server-guide)** - Official MCP Server documentation and Agent Plugins registry.
+
+⭐ **[Agent Skills](https://github.com/figma/mcp-server-guide/tree/main/skills)** - Official collection of Figma agent skills.
+
 > Pull Requests are welcome. Please see the [Contributing Guide](../CONTRIBUTING.md) before opening a Pull Request.
 
 This repository is distinct from the [Figma skills page](http://figma.com/community/skills) in the Figma Community. Submitting resources to this repository does not guarantee the resources will be featured in the Figma Community. We'll update the guidance here as we continue to expand the [Figma skills page](http://figma.com/community/skills).

@@ -6,6 +6,10 @@ _A collection of open source plugins and resources for Figma + FigJam that have 
 
 </div>
 
+## Official Resources
+
+⭐ **[Plugin Samples](https://github.com/figma/plugin-samples)** - Official Figma plugin samples and examples from the Figma team.
+
 > _Pull Requests are being welcomed. Please see the [Contributing Guide](../CONTRIBUTING.md) before opening a Pull Request._
 
 This repository is distinct from the [Figma plugins page](https://www.figma.com/community/plugins) in the Figma Community. Submitting resources to this repository does not guarantee the resources will be featured in the Figma Community. To learn about submitting to the Figma Community, see [Publish plugins to the Figma Community](https://help.figma.com/hc/en-us/articles/360042293394).
