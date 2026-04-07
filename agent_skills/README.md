@@ -24,6 +24,7 @@ security review before using any resources listed.**
 - [Accessibility](#accessibility)
 - [Components](#components)
 - [Design Generation](#design-generation)
+- [Design Process](#design-process)
 - [Design Systems](#design-systems)
 
 ---
@@ -59,6 +60,47 @@ A skill that takes a selected Figma frame and rebuilds it as a proper Atomic Des
 [SOURCE CODE](https://github.com/noemuch/bridge) · [MIT](https://github.com/noemuch/bridge/blob/main/LICENSE)
 **MCP Tools:** `use_figma` `get_design_context` `get_screenshot` `get_variable_defs` `search_design_system` `get_metadata`
 A skill that generates Figma designs fully bound to your design system. Extracts components, variables, and text styles into a local knowledge base, then compiles declarative scene graphs into Figma Plugin API code executed via MCP. All output uses real component instances, bound variables, and token references — no hardcoded values. Includes a recipe system that learns from corrections to improve future generations.
+
+---
+
+**[⬆ Back to TOC](#table-of-contents)**
+
+### Design Process
+
+#### delight-audit
+
+[SOURCE CODE](https://github.com/mariespreitzer/delight-audit-figma) · [MIT](https://github.com/mariespreitzer/delight-audit-figma/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_metadata` `get_screenshot`
+Audits Figma designs for emotional quality across three dimensions: unexpected joy, earned satisfaction, and emotional resonance.
+
+---
+
+#### design-narrative
+
+[SOURCE CODE](https://github.com/mariespreitzer/design-narrative-figma) · [MIT](https://github.com/mariespreitzer/design-narrative-figma/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_metadata` `get_screenshot`
+Writes a four-part design rationale from a Figma file covering context, insight, design response, and delight intention.
+
+---
+
+#### screens-to-ia
+
+[SOURCE CODE](https://github.com/mariespreitzer/screens-to-ia-figma) · [MIT](https://github.com/mariespreitzer/screens-to-ia-figma/blob/main/LICENSE)
+**MCP Tools:** `get_metadata` `get_design_context` `get_screenshot` `use_figma`
+Generates an information architecture page inside the Figma file with a sitemap and per-screen content hierarchy, export-ready as PDF.
+
+---
+
+#### workshop-board
+
+[SOURCE CODE](https://github.com/mariespreitzer/workshop-board-figma) · [MIT](https://github.com/mariespreitzer/workshop-board-figma/blob/main/LICENSE)
+**MCP Tools:** `use_figma`
+Generates a complete, ready-to-run FigJam workshop board from a challenge brief, audience, duration, and participant count.
+
+---
+
+**[⬆ Back to TOC](#table-of-contents)**
+
 ### Design Systems
 
 #### ds-init-figma
