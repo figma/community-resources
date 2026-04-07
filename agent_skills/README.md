@@ -55,8 +55,6 @@ A skill for integrating APCA contrast compliance directly into the Figma design 
 **MCP Tools:** `get_design_context` `get_variable_defs`                                                                          
 A spec-driven skill that analyzes a Figma component and proposes a React component API, props interface, TypeScript types, and  
 variant-to-prop mappings before any implementation begins.                                                                                       
-                                                                                                                               
----
 
 #### reconstruct-component-figma
 
@@ -88,23 +86,17 @@ A skill that generates Figma designs fully bound to your design system. Extracts
 **MCP Tools:** `get_design_context` `get_metadata` `get_screenshot`
 Audits Figma designs for emotional quality across three dimensions: unexpected joy, earned satisfaction, and emotional resonance.
 
----
-
 #### design-narrative
 
 [SOURCE CODE](https://github.com/mariespreitzer/design-narrative-figma) · [MIT](https://github.com/mariespreitzer/design-narrative-figma/blob/main/LICENSE)
 **MCP Tools:** `get_design_context` `get_metadata` `get_screenshot`
 Writes a four-part design rationale from a Figma file covering context, insight, design response, and delight intention.
 
----
-
 #### screens-to-ia
 
 [SOURCE CODE](https://github.com/mariespreitzer/screens-to-ia-figma) · [MIT](https://github.com/mariespreitzer/screens-to-ia-figma/blob/main/LICENSE)
 **MCP Tools:** `get_metadata` `get_design_context` `get_screenshot` `use_figma`
 Generates an information architecture page inside the Figma file with a sitemap and per-screen content hierarchy, export-ready as PDF.
-
----
 
 #### workshop-board
 
