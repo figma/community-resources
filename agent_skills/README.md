@@ -62,6 +62,8 @@ A skill that generates Figma designs fully bound to your design system. Extracts
 
 ---
 
+**[⬆ Back to TOC](#table-of-contents)**
+
 ### Design Systems
 
 #### ds-init-figma
