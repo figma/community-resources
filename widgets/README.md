@@ -6,6 +6,10 @@ _A collection of open source plugins, widgets and other resources for Figma + Fi
 
 </div>
 
+## Official Resources
+
+⭐ **[Widget Samples](https://github.com/figma/widget-samples)** - Official Figma widget samples and examples from the Figma team.
+
 > _Pull Requests are being welcomed. Please see the [Contributing Guide](../CONTRIBUTING.md) before opening a Pull Request._
 
 This repository is distinct from the [Figma Community](https://www.figma.com/community/whiteboarding). Submitting resources to this repository does not guarantee the resources will be featured in the Figma Community. To learn about submitting to the Figma Community, see [Publish widgets to the Figma Community](https://help.figma.com/hc/en-us/articles/4410337103639).
