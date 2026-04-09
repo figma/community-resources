@@ -116,6 +116,14 @@ Generates a complete, ready-to-run FigJam workshop board from a challenge brief,
 **MCP Tools:** `create_new_file` `use_figma` `get_screenshot`
 A skill that creates a complete Design System directly on the Figma canvas, including variables, tokens, foundations, components with variants, documentation pages, and showcase layouts. Supports full DS creation, adding individual components, or generating specific pages on an existing file.
 
+#### ds-compliance-audit
+[SOURCE CODE](https://github.com/namikazeseb/ds-compliance-audit) · [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+**MCP Tools:** `use_figma`
+
+Audits Figma screens for design system compliance.
+Detects incorrect components, missing token bindings, spacing violations, typography drift, and accessibility issues.
+Outputs structured audit report with fixes.
+
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
