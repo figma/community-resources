@@ -128,8 +128,7 @@ Outputs structured audit report with fixes.
 [SOURCE CODE](https://github.com/ykshettydesign/token-audit-skill) · [CC0](https://github.com/ykshettydesign/token-audit-skill/blob/main/LICENSE)
 **MCP Tools:** `get_variable_collections` `get_variables`
 
-A comprehensive governance skill for auditing variable collections against 3-layer architecture and API-safe spacing standards.
-
+A comprehensive governance skill for auditing variable collections against 3-layer architecture and API-safe spacing standards. Created by **Yogesh Shetty**.
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
