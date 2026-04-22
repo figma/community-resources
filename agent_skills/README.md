@@ -124,6 +124,12 @@ Audits Figma screens for design system compliance.
 Detects incorrect components, missing token bindings, spacing violations, typography drift, and accessibility issues.
 Outputs structured audit report with fixes.
 
+#### token-audit-skill
+[SOURCE CODE](https://github.com/ykshettydesign/token-audit-skill) · [CC0](https://github.com/ykshettydesign/token-audit-skill/blob/main/LICENSE)
+**MCP Tools:** `get_variable_collections` `get_variables`
+
+A comprehensive governance skill for auditing variable collections against 3-layer architecture and API-safe spacing standards.
+
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
