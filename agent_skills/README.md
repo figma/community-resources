@@ -74,6 +74,12 @@ A skill that takes a selected Figma frame and rebuilds it as a proper Atomic Des
 **MCP Tools:** `use_figma` `get_design_context` `get_screenshot` `get_variable_defs` `search_design_system` `get_metadata`
 A skill that generates Figma designs fully bound to your design system. Extracts components, variables, and text styles into a local knowledge base, then compiles declarative scene graphs into Figma Plugin API code executed via MCP. All output uses real component instances, bound variables, and token references — no hardcoded values. Includes a recipe system that learns from corrections to improve future generations.
 
+#### bulk-capture
+[SOURCE CODE](https://github.com/tallneil/tallneil-mono-public/tree/main/skills/bulk-capture) · [CC0](https://github.com/tallneil/tallneil-mono-public/blob/main/LICENSE)
+**MCP Tools:** `generate_figma_design` `new_page`
+
+A skill for bulk-capturing many live web app pages into Figma simultaneously using generate_figma_design and Chrome DevTools MCP. Opens all tabs in parallel and polls all capture IDs at once — no manual clicking required.
+
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
