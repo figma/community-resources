@@ -26,7 +26,7 @@ security review before using any resources listed.**
 ---
 
 ## Table of Contents
-
+- [AI Behavior](#ai-behavior)
 - [Accessibility](#accessibility)
 - [Components](#components)
 - [Design Generation](#design-generation)
@@ -34,6 +34,18 @@ security review before using any resources listed.**
 - [Design Systems](#design-systems)
 
 ---
+
+### AI Behavior
+
+#### emote-behavioral-contracts
+
+[SOURCE CODE](https://github.com/rogerod/emote-behavioral-contracts) · [MIT](https://github.com/rogerod/emote-behavioral-contracts/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_metadata` `use_figma`
+Reads Emote behavioral annotation components from a Figma frame and produces implementation-ready behavioral contracts for AI-driven interfaces.
+
+---
+
+**[⬆ Back to TOC](#table-of-contents)**
 
 ### Accessibility
 
