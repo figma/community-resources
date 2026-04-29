@@ -35,18 +35,6 @@ security review before using any resources listed.**
 
 ---
 
-### AI Behavior
-
-#### emote-behavioral-contracts
-
-[SOURCE CODE](https://github.com/rogerod/emote-behavioral-contracts) · [MIT](https://github.com/rogerod/emote-behavioral-contracts/blob/main/LICENSE)
-**MCP Tools:** `get_design_context` `get_metadata` `use_figma`
-Reads Emote behavioral annotation components from a Figma frame and produces implementation-ready behavioral contracts for AI-driven interfaces.
-
----
-
-**[⬆ Back to TOC](#table-of-contents)**
-
 ### Accessibility
 
 #### apca-compliance-figma
@@ -54,6 +42,18 @@ Reads Emote behavioral annotation components from a Figma frame and produces imp
 [SOURCE CODE](https://github.com/Merkle-XDI/apca-compliance-figma) · [MIT](https://github.com/Merkle-XDI/apca-compliance-figma/blob/main/LICENSE.txt)
 **MCP Tools:** `get_design_context` `get_variable_defs` `get_screenshot` `use_figma`.
 A skill for integrating APCA contrast compliance directly into the Figma design process. Audits and remaps color variables to meet target Lc thresholds, and generates APCA-compliant component variations across light and dark modes.
+
+---
+
+**[⬆ Back to TOC](#table-of-contents)**
+
+### AI Behavior
+
+#### emote-behavioral-contracts
+
+[SOURCE CODE](https://github.com/rogerod/emote-behavioral-contracts) · [MIT](https://github.com/rogerod/emote-behavioral-contracts/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_metadata` `use_figma`
+Reads Emote behavioral annotation components from a Figma frame and produces implementation-ready behavioral contracts for AI-driven interfaces.
 
 ---
 
