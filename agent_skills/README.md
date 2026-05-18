@@ -142,6 +142,13 @@ Audits Figma screens for design system compliance.
 Detects incorrect components, missing token bindings, spacing violations, typography drift, and accessibility issues.
 Outputs structured audit report with fixes.
 
+#### generate-tokens-from-figma
+
+[SOURCE CODE](https://github.com/congemcd/skills-collection/tree/main/skills/generate-tokens-from-figma) · [MIT](https://github.com/congemcd/skills-collection/blob/main/LICENSE)
+**MCP Tools:** `use_figma`
+
+Generates design token reports and DTCG token files from Figma variables and styles.
+
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
