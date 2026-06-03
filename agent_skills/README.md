@@ -141,7 +141,7 @@ A skill that generates Figma designs fully bound to your design system. Extracts
 Authors Figma Slides decks — creating and reordering slides, adding text and shapes, and setting backgrounds, transitions, and view mode.
 
 #### bulk-capture
-[SOURCE CODE](https://github.com/tallneil/tallneil-mono-public/tree/main/skills/bulk-capture) · [CC0](https://github.com/tallneil/tallneil-mono-public/blob/main/LICENSE)
+[SOURCE CODE](https://github.com/tallneil/tallneil-mono-public/tree/main/.claude/skills/bulk-capture) · [CC0](https://github.com/tallneil/tallneil-mono-public/blob/main/LICENSE)
 **MCP Tools:** `generate_figma_design` `new_page`
 
 A skill for bulk-capturing many live web app pages into Figma simultaneously using generate_figma_design and Chrome DevTools MCP. Opens all tabs in parallel and polls all capture IDs at once — no manual clicking required.
