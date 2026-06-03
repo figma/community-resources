@@ -26,12 +26,13 @@ security review before using any resources listed.**
 ---
 
 ## Table of Contents
-- [AI Behavior](#ai-behavior)
 - [Accessibility](#accessibility)
+- [AI Behavior](#ai-behavior)
 - [Components](#components)
 - [Design Generation](#design-generation)
 - [Design Process](#design-process)
 - [Design Systems](#design-systems)
+- [FigJam](#figjam)
 
 ---
 
@@ -164,12 +165,6 @@ Reads and writes designer annotations and annotation categories on Figma nodes.
 **MCP Tools:** `use_figma` `get_design_context`
 Compares a Figma design node against a code specification and reports drift as scored discrepancies by severity.
 
-#### create-figjam-content
-
-[SOURCE CODE](https://github.com/southleft/skills-for-figma/tree/main/skills/create-figjam-content) · [MIT](https://github.com/southleft/skills-for-figma/blob/main/LICENSE)
-**MCP Tools:** `use_figma`
-Authors and reads FigJam boards — stickies, connectors, shapes with text, sections, tables, and code blocks, with auto-arrange.
-
 #### delight-audit
 
 [SOURCE CODE](https://github.com/mariespreitzer/delight-audit-figma) · [MIT](https://github.com/mariespreitzer/delight-audit-figma/blob/main/LICENSE)
@@ -187,12 +182,6 @@ Writes a four-part design rationale from a Figma file covering context, insight,
 [SOURCE CODE](https://github.com/mariespreitzer/screens-to-ia-figma) · [MIT](https://github.com/mariespreitzer/screens-to-ia-figma/blob/main/LICENSE)
 **MCP Tools:** `get_metadata` `get_design_context` `get_screenshot` `use_figma`
 Generates an information architecture page inside the Figma file with a sitemap and per-screen content hierarchy, export-ready as PDF.
-
-#### workshop-board
-
-[SOURCE CODE](https://github.com/mariespreitzer/workshop-board-figma) · [MIT](https://github.com/mariespreitzer/workshop-board-figma/blob/main/LICENSE)
-**MCP Tools:** `use_figma`
-Generates a complete, ready-to-run FigJam workshop board from a challenge brief, audience, duration, and participant count.
 
 ---
 
@@ -260,3 +249,23 @@ Bootstraps a complete token system — a collection, its modes, and all variable
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
+
+### FigJam
+
+#### create-figjam-content
+
+[SOURCE CODE](https://github.com/southleft/skills-for-figma/tree/main/skills/create-figjam-content) · [MIT](https://github.com/southleft/skills-for-figma/blob/main/LICENSE)
+**MCP Tools:** `use_figma`
+Authors and reads FigJam boards — stickies, connectors, shapes with text, sections, tables, and code blocks, with auto-arrange.
+
+### figjam-builder
+
+[SOURCE CODE](https://github.com/prasantloki/figjam-builder) · [MIT](https://github.com/prasantloki/figjam-builder/blob/main/LICENSE)
+**MCP Tools:** `use_figma`, `get_figjam`, `get_screenshot`, `upload_assets`, `generate_diagram`
+Builds and modifies FigJam boards through the Figma Plugin API. Teaches Claude how to compose boards using FigJam's type scale, color, and layout patterns so the output reads as designed instead of generated.
+
+#### workshop-board
+
+[SOURCE CODE](https://github.com/mariespreitzer/workshop-board-figma) · [MIT](https://github.com/mariespreitzer/workshop-board-figma/blob/main/LICENSE)
+**MCP Tools:** `use_figma`
+Generates a complete, ready-to-run FigJam workshop board from a challenge brief, audience, duration, and participant count.
