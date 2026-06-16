@@ -183,6 +183,12 @@ Writes a four-part design rationale from a Figma file covering context, insight,
 **MCP Tools:** `get_metadata` `get_design_context` `get_screenshot` `use_figma`
 Generates an information architecture page inside the Figma file with a sitemap and per-screen content hierarchy, export-ready as PDF.
 
+#### video-interaction-mapper
+
+[SOURCE CODE](https://github.com/ilin-figma/mcp-server-guide/tree/video-interaction-mapper/workflow-skills/video-interaction-mapper) · [MIT](https://github.com/ilin-figma/mcp-server-guide/blob/video-interaction-mapper/workflow-skills/video-interaction-mapper/LICENSE)
+**MCP Tools:** `create_new_file` `use_figma` `upload_assets` `get_screenshot`
+Maps UI screen recordings into annotated Figma storyboards with before/after screenshot states, target markers, and native annotations.
+
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
