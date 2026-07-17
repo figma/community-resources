@@ -33,6 +33,7 @@ security review before using any resources listed.**
 - [Design Process](#design-process)
 - [Design Systems](#design-systems)
 - [FigJam](#figjam)
+- [Localization](#localization)
 
 ---
 
@@ -269,3 +270,15 @@ Builds and modifies FigJam boards through the Figma Plugin API. Teaches Claude h
 [SOURCE CODE](https://github.com/mariespreitzer/workshop-board-figma) · [MIT](https://github.com/mariespreitzer/workshop-board-figma/blob/main/LICENSE)
 **MCP Tools:** `use_figma`
 Generates a complete, ready-to-run FigJam workshop board from a challenge brief, audience, duration, and participant count.
+
+---
+
+**[⬆ Back to TOC](#table-of-contents)**
+
+### Localization
+
+#### localeflow
+
+[SOURCE CODE](https://github.com/loshoc/LocaleFlow/tree/main/localeflow) · [MIT](https://github.com/loshoc/LocaleFlow/blob/main/LICENSE)
+**MCP Tools:** `use_figma`
+Extracts visible UI strings from Figma, generates stable localization keys, preserves placeholders and non-translatable content, and exports matching production CSV/JSON files with a concise localization report.
