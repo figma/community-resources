@@ -27,3 +27,4 @@ security review before using any resources listed.**
 - [Widget Resources](widgets/README.md) — Open-source widget source code and resources for building them
 - [Agent Skill Resources](agent_skills/README.md) — Open-source agent skills for the Figma MCP server
 - [Additional Resources](additional_resources/README.md) — Miscellaneous developer resources for Figma development
+- [Pixel Pet](https://letmethink.cc/app/pixel-pet/) - Turn a personality description into a deterministic ASCII pixel companion in the browser.
