@@ -184,6 +184,12 @@ Writes a four-part design rationale from a Figma file covering context, insight,
 **MCP Tools:** `get_metadata` `get_design_context` `get_screenshot` `use_figma`
 Generates an information architecture page inside the Figma file with a sitemap and per-screen content hierarchy, export-ready as PDF.
 
+#### ux-audit
+
+[SOURCE CODE](https://github.com/Israjkhan/ux-audit-skill) · [MIT](https://github.com/Israjkhan/ux-audit-skill/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_screenshot` `get_metadata`
+
+Audits Figma screens and user flows for usability, accessibility, information architecture, interaction issues, UX writing, responsive risks, conversion friction, and missing states, producing prioritized findings with evidence and actionable recommendations.
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
