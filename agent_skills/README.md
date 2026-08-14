@@ -178,6 +178,12 @@ Audits Figma designs for emotional quality across three dimensions: unexpected j
 **MCP Tools:** `get_design_context` `get_metadata` `get_screenshot`
 Writes a four-part design rationale from a Figma file covering context, insight, design response, and delight intention.
 
+#### saas-ux-review
+
+[SOURCE CODE](https://github.com/Israjkhan/saas-ux-review) · [MIT](https://github.com/Israjkhan/saas-ux-review/blob/main/LICENSE)
+**MCP Tools:** `get_design_context` `get_screenshot` `get_metadata`
+Reviews SaaS products, screens, and user flows for usability, onboarding, activation, navigation, information architecture, workflow efficiency, conversion, retention, trust, accessibility, responsive behavior, and missing states. Produces prioritized findings with evidence and actionable recommendations.
+
 #### screens-to-ia
 
 [SOURCE CODE](https://github.com/mariespreitzer/screens-to-ia-figma) · [MIT](https://github.com/mariespreitzer/screens-to-ia-figma/blob/main/LICENSE)
