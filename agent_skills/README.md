@@ -188,8 +188,8 @@ Generates an information architecture page inside the Figma file with a sitemap 
 
 [SOURCE CODE](https://github.com/Israjkhan/ux-audit-skill) · [MIT](https://github.com/Israjkhan/ux-audit-skill/blob/main/LICENSE)
 **MCP Tools:** `get_design_context` `get_screenshot` `get_metadata`
-
 Audits Figma screens and user flows for usability, accessibility, information architecture, interaction issues, UX writing, responsive risks, conversion friction, and missing states, producing prioritized findings with evidence and actionable recommendations.
+
 ---
 
 **[⬆ Back to TOC](#table-of-contents)**
