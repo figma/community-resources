@@ -182,7 +182,7 @@ Writes a four-part design rationale from a Figma file covering context, insight,
 
 [SOURCE CODE](https://github.com/Israjkhan/saas-ux-review) · [MIT](https://github.com/Israjkhan/saas-ux-review/blob/main/LICENSE)
 **MCP Tools:** `get_design_context` `get_screenshot` `get_metadata`
-Reviews SaaS screens and user flows for usability, onboarding, activation, navigation, information architecture, workflow efficiency, conversion, retention, trust, accessibility, responsive behavior, and missing states, producing prioritized findings with evidence, severity, impact, and actionable recommendations.
+Reviews SaaS products, screens, and user flows for usability, onboarding, activation, navigation, information architecture, workflow efficiency, conversion, retention, trust, accessibility, responsive behavior, and missing states. Produces prioritized findings with evidence and actionable recommendations.
 
 #### screens-to-ia
 
