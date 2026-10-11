@@ -16,3 +16,6 @@ assignees: ""
 
 **What is the URL for your resource repo?**
 [RESOURCE_URL_HERE]
+
+**Does this resource follow basic security hygiene (no sudo, no plaintext token persistence, pinned dependencies)?**
+[Yes/No]

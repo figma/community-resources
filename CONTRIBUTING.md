@@ -35,6 +35,11 @@ Please note that this project is released with a [Contributor Code of Conduct](c
   - **Skills:** `figma` + `figma-mcp`
   - **Resources:** `figma` + the most relevant type tag
 - [ ] By submitting a link you represent that to the best of your knowledge you are not infringing another party's intellectual party.
+- [ ] **Security hygiene for Agent Skills:** If submitting an AI agent skill, the repository must adhere to baseline safety standards:
+  - **No unconsented system mutations:** Skills must not instruct agents to invoke `sudo`, run silent package installations (`-q`), or bypass user confirmation ("do not wait for the user").
+  - **Credential isolation:** Skills must not persist Figma Access Tokens (PAT) in plaintext project files (e.g. `.component-contracts`), environment variables, or CLI flags. Use existing authenticated MCP sessions or standard OAuth flows.
+  - **Pinned dependencies:** Any helper scripts invoked via `npx` or `uvx` must pin exact versions rather than floating `@latest`.
+  - **Sandbox integrity:** Plugins bridging agent tools must avoid unrestricted `eval()` over unvalidated `postMessage` origins.
 - [ ] Your entry should be in the following format
 
   - Plugin:
