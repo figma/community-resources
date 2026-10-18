@@ -628,6 +628,14 @@ Add emojis seamlessly onto your designs.
 
 ---
 
+#### LayerGrab
+
+[SOURCE CODE](https://github.com/layergrab/layergrab-plugins) · [PLUGIN](https://www.figma.com/community/plugin/1686365512269052417) · [MIT](https://github.com/layergrab/layergrab-plugins/blob/main/LICENSE)
+
+Splits an image into up to 16 transparent, named layers with AI, or extracts only the object you name.
+
+---
+
 #### Nester
 
 [SOURCE CODE](https://github.com/thomas-lowry/nester) · [PLUGIN](https://www.figma.com/c/plugin/787337376836787569/Nester) · [MIT](https://github.com/thomas-lowry/nester/blob/master/LICENSE)
