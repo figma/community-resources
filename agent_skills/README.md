@@ -51,6 +51,12 @@ A skill for integrating APCA contrast compliance directly into the Figma design 
 **MCP Tools:** `use_figma`
 Produces a per-component accessibility scorecard covering interaction-state coverage, focus indicators, target size, and color-blind simulation.
 
+#### contraste-colores
+
+[SOURCE CODE](https://github.com/Clagoss/claude-code-para-disenadores/tree/main/plugins/lagos-diseno-es/skills/contraste-colores) · [MIT](https://github.com/Clagoss/claude-code-para-disenadores/blob/main/LICENSE)
+**MCP Tools:** `get_variable_defs` `get_screenshot`
+A Spanish-language skill that checks WCAG 2.2 AA contrast between color variables in light and dark modes and, for each failing pair, suggests the closest passing value with the same hue in OKLCH.
+
 #### lint-design-figma
 
 [SOURCE CODE](https://github.com/southleft/skills-for-figma/tree/main/skills/lint-design-figma) · [MIT](https://github.com/southleft/skills-for-figma/blob/main/LICENSE)
